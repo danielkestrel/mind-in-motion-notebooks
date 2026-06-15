@@ -1,6 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danielkestrel/mind-in-motion-notebooks/blob/main/notebooks/gemma_rlhf_comparison.ipynb)
 
-# Mind in Motion — Notebooks
+# Mind in Motion - Notebooks
 
 This is a collection of interactive Colab notebooks that accompany essays on ayabraham.com. Each notebook is linked from its corresponding article. Readers can run the experiments themselves.
 
