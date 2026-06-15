@@ -15,6 +15,4 @@ This is a collection of interactive Colab notebooks that accompany essays on aya
 All notebooks are designed to run in Google Colab with no local setup required.
 Click the notebook, then click "Open in Colab".
 
-## About
 
-Written by Ayodele Abraham. Read the essays at ayabraham.com.
